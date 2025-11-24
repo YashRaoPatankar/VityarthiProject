@@ -27,7 +27,7 @@ A lightweight, fully offline habit tracking application built in pure Python. It
 4. Run the program:  
    ```bash
    python habit_tracker.py
- ### Instructions for Testing
+### Instructions for Testing
 First run: No file exists → creates new progress automatically
 Add a habit → quit → restart → check if it remembers
 Log “yes” on multiple days (change system date or wait) → watch streak grow
