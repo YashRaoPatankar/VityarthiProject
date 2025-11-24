@@ -34,3 +34,5 @@ Log “yes” on multiple days (change system date or wait) → watch streak gro
 Skip a day or answer “no” → streak resets
 Try typing wrong inputs → program won’t crash
 Open habitprogress.txt in Notepad → see your data in plain text (you can even edit it manually!)
+### Output
+<img width="666" height="769" alt="Screenshot 2025-11-24 at 7 19 18 PM" src="https://github.com/user-attachments/assets/4b789b1c-9e33-4ac6-a318-9374f4fb4f96" />
